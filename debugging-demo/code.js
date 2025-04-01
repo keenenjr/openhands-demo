@@ -41,4 +41,4 @@ app.get("/user/:id", async (req, res) => {
     }
 });
 
-app.listen(PORT, () => console.log(`Server running on http://l
+app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));

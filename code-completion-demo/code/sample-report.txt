@@ -1,0 +1,9 @@
+Student Name: [Student Name]
+Student ID: [Student ID]
+
+Subjects:
+- [Subject 1]: [Grade 1] (Credit Points: [Credit Points 1])
+- [Subject 2]: [Grade 2] (Credit Points: [Credit Points 2])
+- ...
+
+Weighted Average Mark (WAM): [Calculated WAM]

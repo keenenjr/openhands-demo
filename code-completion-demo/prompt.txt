@@ -1,0 +1,10 @@
+I have a code completion task for you that I need completed.
+
+In 'code.py' there is a Student class.
+
+Pease implement the calculate_wam method to compute the Weighted Average Mark (WAM) based on the student's grades and corresponding credit points.
+You can assume that all subjects are made up of 6 credit points.
+
+Additionally, complete the generate_student_report function to produce a formatted report for a student which includes their name, subjects, grades, and WAM.
+Please ensure that this report is in the same format as the sample report, provided in 'sample-report.txt'. 
+Please convey the working solution with one sample student, who has atleast 3 grades for different subjects.
