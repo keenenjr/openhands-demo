@@ -1,0 +1,17 @@
+Hey, this is my task for a university assignment:
+
+Task Description 
+You must create an Express.js API that retrieves user profile data from a simulated database and caches responses to improve performance. 
+Expected Functionality: 
+    - If a user requests GET /user/:id, the API should: Fetch the user data from a database (simulated). 
+    - Cache the response so that subsequent requests return instantly without database access. 
+    - Handle missing users gracefully by returning a 404 error.
+    - The API must work for all valid and invalid inputs, including: 
+        -- Existing users (/user/1, /user/2) Non-existent users (/user/999) 
+        -- Multiple consecutive requests (to test caching) 
+    - The cache must correctly store and retrieve data based on user ID type. 
+    - There must be no hidden performance issues, memory leaks, or race conditions.
+
+Could you please run my solution (in code.js) and ensure that it addresses all of these points?
+Please debug any errors.   
+If you need to change the code, please place the new code in 'code_updated.js', and leave the original file untouched.
