@@ -1,6 +1,7 @@
 **Note:**
-This demonstration focuses on showcasing the features of the AI Chatbot in OpenHands. 
-Follow the below steps in the same order to recreate the demonstration video.
+This demonstration focuses on showcasing the features of the conversational AI Chatbot in OpenHands. 
+Follow the steps below in the same order to recreate the demonstration video.
+Please use the interface guides provided in the root directory if you are stuck on how to action a step.
 
 1. ENTER PROMPT (in Chatbox): "Hey! I'm looking to create a todo list app, where should I start?"
     - View how the chat feature can be used to ask the agent questions or initiate workflows
@@ -16,7 +17,7 @@ Follow the below steps in the same order to recreate the demonstration video.
 5. Navigate back to the previous conversation/project using the conversation manager.
     - View how OpenHands has implemented conversation & project management.
 
-6. End the process that is running the docker container directly from the terminal.
+6. Quit the terminal that is running the docker container directly from the terminal.
 
 7. Reload the website to confirm that the session has ended.
 
@@ -25,6 +26,6 @@ Follow the below steps in the same order to recreate the demonstration video.
 9. Refresh OpenHands in your browser to confirm that it can be accessed again.
     - View how persistent storage of conversations is provided across different sessions
 
-10. Navigate to the settins page, then LLM Setup.
+10. Navigate to the settings page, then LLM Settings.
     - View the different LLM choice options
     - View the different verified and non-verified LLM options
