@@ -2,6 +2,7 @@
 This demonstration focuses on showcasing the Terminal and Integrated Developer Environment (IDE) features in OpenHands. 
 Follow the steps below in the same order to recreate the demonstration video.
 Please use the interface guides provided in the root directory if you are stuck on how to action a step.
+If a filename is mentioned in this guide, the file's location will be in the same directory as this guide.
 
 1. Continue working in the SAME project/conversation used for feature 2. If you have deleted the conversation, please repeat the steps in the Feature 2 demo guide before continuing with this one.
 

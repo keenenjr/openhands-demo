@@ -2,6 +2,7 @@
 This demonstration focuses on showcasing how the OpenHands agent can function as a tutor / educator.
 Follow the steps below in the same order to recreate the demonstration video.
 Please use the interface guides provided in the root directory if you are stuck on how to action a step.
+If a filename is mentioned in this guide, the file's location will be in the same directory as this guide.
 
 1. ENTER PROMPT (in Chatbox): "Can you provide me with a lesson plan to learn basic programming concepts in python? Please include some sample code for each concept, as well as exercises for me to complete in the workspace!"
     - View how the agent can create structured lesson plans with sample code & exercises to complete.
