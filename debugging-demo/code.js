@@ -37,7 +37,7 @@ app.get("/user/:id", async (req, res) => {
         cache[userId] = user; // ✅ Store in cache
         res.json(user);
     } catch (error) {
-        res.status(404).json({ error });
+        res.status(400).json({ error });
     }
 });
 

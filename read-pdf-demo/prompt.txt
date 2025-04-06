@@ -1,9 +1,10 @@
 __PROMPT 1__
 
-Hey, I've uploaded my lecture slides in a pdf, which is in the file titled 'slides.pdf'. 
-Can you summarise the content for me?
+Hey, I've uploaded my lecture slides in a pdf, which is in the file titled 'slides.pdf'.  
+Can you convert the pdf to text, and then summarise the content for me?
 
 __PROMPT 2__
 
-Can you expand on the basic c++ syntax with examples placed in a code file called 'syntax.cpp' in the workspace? 
-Please ONLY include code samples from the slides, i.e., no code samples of your own.
+Can you extract and expand on some basic C++ data types/variables with examples directly from the 'slides.pdf' 
+file and place them in a code file called 'syntax.cpp' in the workspace? Please ensure that only the code 
+samples from the slides are used.
