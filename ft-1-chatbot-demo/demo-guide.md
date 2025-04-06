@@ -1,6 +1,6 @@
 **Note:**
-    - This demonstration focuses on showcasing the features of the AI Chatbot in OpenHands.
-    - Follow the below steps in the same order to recreate the demonstration video.
+This demonstration focuses on showcasing the features of the AI Chatbot in OpenHands. 
+Follow the below steps in the same order to recreate the demonstration video.
 
 1. ENTER PROMPT (in Chatbox): "Hey! I'm looking to create a todo list app, where should I start?"
     - View how the chat feature can be used to ask the agent questions or initiate workflows
